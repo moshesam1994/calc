@@ -34,13 +34,22 @@ private EditText mEdidText1;
             public void onClick(View v) {
                 clacArmpitDeep();
                 openCalc();
-
+pres();
 
             }
         });
 
 
     }
+
+    private void pres() {
+
+
+
+
+
+    }
+
 
     private void openCalc()
     {
